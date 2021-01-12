@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/shopify_ux_challenge/static/css/main.bd20ed8d.chunk.css",
-    "main.js": "/shopify_ux_challenge/static/js/main.f28f25b9.chunk.js",
-    "main.js.map": "/shopify_ux_challenge/static/js/main.f28f25b9.chunk.js.map",
+    "main.css": "/shopify_ux_challenge/static/css/main.e0d6b381.chunk.css",
+    "main.js": "/shopify_ux_challenge/static/js/main.96bcbb4f.chunk.js",
+    "main.js.map": "/shopify_ux_challenge/static/js/main.96bcbb4f.chunk.js.map",
     "runtime-main.js": "/shopify_ux_challenge/static/js/runtime-main.7d212855.js",
     "runtime-main.js.map": "/shopify_ux_challenge/static/js/runtime-main.7d212855.js.map",
-    "static/js/2.e903253b.chunk.js": "/shopify_ux_challenge/static/js/2.e903253b.chunk.js",
-    "static/js/2.e903253b.chunk.js.map": "/shopify_ux_challenge/static/js/2.e903253b.chunk.js.map",
+    "static/js/2.865321bb.chunk.js": "/shopify_ux_challenge/static/js/2.865321bb.chunk.js",
+    "static/js/2.865321bb.chunk.js.map": "/shopify_ux_challenge/static/js/2.865321bb.chunk.js.map",
     "static/js/3.5709f2ba.chunk.js": "/shopify_ux_challenge/static/js/3.5709f2ba.chunk.js",
     "static/js/3.5709f2ba.chunk.js.map": "/shopify_ux_challenge/static/js/3.5709f2ba.chunk.js.map",
     "index.html": "/shopify_ux_challenge/index.html",
-    "static/css/main.bd20ed8d.chunk.css.map": "/shopify_ux_challenge/static/css/main.bd20ed8d.chunk.css.map",
-    "static/js/2.e903253b.chunk.js.LICENSE.txt": "/shopify_ux_challenge/static/js/2.e903253b.chunk.js.LICENSE.txt"
+    "static/css/main.e0d6b381.chunk.css.map": "/shopify_ux_challenge/static/css/main.e0d6b381.chunk.css.map",
+    "static/js/2.865321bb.chunk.js.LICENSE.txt": "/shopify_ux_challenge/static/js/2.865321bb.chunk.js.LICENSE.txt",
+    "static/media/search.841f128c.svg": "/shopify_ux_challenge/static/media/search.841f128c.svg",
+    "static/media/share-android.ae50b540.svg": "/shopify_ux_challenge/static/media/share-android.ae50b540.svg",
+    "static/media/trash.0f34c80f.svg": "/shopify_ux_challenge/static/media/trash.0f34c80f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7d212855.js",
-    "static/js/2.e903253b.chunk.js",
-    "static/css/main.bd20ed8d.chunk.css",
-    "static/js/main.f28f25b9.chunk.js"
+    "static/js/2.865321bb.chunk.js",
+    "static/css/main.e0d6b381.chunk.css",
+    "static/js/main.96bcbb4f.chunk.js"
   ]
 }
