@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/shopify_ux_challenge/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/shopify_ux_challenge/static/js/main.c7ab399d.chunk.js",
-    "main.js.map": "/shopify_ux_challenge/static/js/main.c7ab399d.chunk.js.map",
-    "runtime-main.js": "/shopify_ux_challenge/static/js/runtime-main.1462ca8d.js",
-    "runtime-main.js.map": "/shopify_ux_challenge/static/js/runtime-main.1462ca8d.js.map",
-    "static/js/2.58f00fad.chunk.js": "/shopify_ux_challenge/static/js/2.58f00fad.chunk.js",
-    "static/js/2.58f00fad.chunk.js.map": "/shopify_ux_challenge/static/js/2.58f00fad.chunk.js.map",
-    "static/js/3.16664571.chunk.js": "/shopify_ux_challenge/static/js/3.16664571.chunk.js",
-    "static/js/3.16664571.chunk.js.map": "/shopify_ux_challenge/static/js/3.16664571.chunk.js.map",
+    "main.css": "/shopify_ux_challenge/static/css/main.bd20ed8d.chunk.css",
+    "main.js": "/shopify_ux_challenge/static/js/main.593aac4b.chunk.js",
+    "main.js.map": "/shopify_ux_challenge/static/js/main.593aac4b.chunk.js.map",
+    "runtime-main.js": "/shopify_ux_challenge/static/js/runtime-main.7d212855.js",
+    "runtime-main.js.map": "/shopify_ux_challenge/static/js/runtime-main.7d212855.js.map",
+    "static/js/2.e903253b.chunk.js": "/shopify_ux_challenge/static/js/2.e903253b.chunk.js",
+    "static/js/2.e903253b.chunk.js.map": "/shopify_ux_challenge/static/js/2.e903253b.chunk.js.map",
+    "static/js/3.5709f2ba.chunk.js": "/shopify_ux_challenge/static/js/3.5709f2ba.chunk.js",
+    "static/js/3.5709f2ba.chunk.js.map": "/shopify_ux_challenge/static/js/3.5709f2ba.chunk.js.map",
     "index.html": "/shopify_ux_challenge/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/shopify_ux_challenge/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.58f00fad.chunk.js.LICENSE.txt": "/shopify_ux_challenge/static/js/2.58f00fad.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/shopify_ux_challenge/static/media/logo.6ce24c58.svg"
+    "static/css/main.bd20ed8d.chunk.css.map": "/shopify_ux_challenge/static/css/main.bd20ed8d.chunk.css.map",
+    "static/js/2.e903253b.chunk.js.LICENSE.txt": "/shopify_ux_challenge/static/js/2.e903253b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1462ca8d.js",
-    "static/js/2.58f00fad.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.c7ab399d.chunk.js"
+    "static/js/runtime-main.7d212855.js",
+    "static/js/2.e903253b.chunk.js",
+    "static/css/main.bd20ed8d.chunk.css",
+    "static/js/main.593aac4b.chunk.js"
   ]
 }
